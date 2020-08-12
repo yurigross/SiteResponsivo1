@@ -59,7 +59,7 @@ header li:last-child{
 /*FIM HEADER*/
 /*HERO*/
 .hero{
-    background-image: url("https://media-manager.noticiasaominuto.com.br/1920/naom_563f33b007aaf.jpg");
+    background-image: url(/imgs/header.jpg);
     background-size: cover;
     min-height: 100vh;
     color: white;
