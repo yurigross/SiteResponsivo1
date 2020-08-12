@@ -59,7 +59,7 @@ header li:last-child{
 /*FIM HEADER*/
 /*HERO*/
 .hero{
-    background-image: url(/imgs/header.jpg);
+    background-image: url("https://miro.medium.com/max/11328/1*AvUpREMP85amQcVoNKntfw.jpeg");
     background-size: cover;
     min-height: 100vh;
     color: white;
